@@ -50,3 +50,4 @@ console.log(`payable amount ${totalPrice} taka`);
 //amk ekta func create korte hbe ja amr cashback amount ke calculate krbe 
 
 
+
